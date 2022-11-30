@@ -1,14 +1,231 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styleShop.css" rel="stylesheet" type="text/css" />
+    <title>Assignment</title>
 </head>
 <body>
+<style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
     
-</body>
+    .topnav {
+      overflow: hidden;
+      background-color: #aa5404;
+      
+    }
+    
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      margin:6%;
+      margin-top:0;
+      margin-bottom:0;
+    }
+    
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    
+    .topnav a.active {
+      background-color: #043624;
+      color: white;
+    }
+    </style>
+
+    <style>
+        .jbDiv {
+          border: 5px outset black;
+          padding: 8px;
+          background-color:rgb(190, 106, 9) ;
+          margin: 2.5%;
+        } 
+
+        .myDiv {
+        border: 5px outset red;
+        background-color: burlywood;    
+        text-align: center;
+        }
+        
+        h1 {
+          text-align: center;
+          text-transform: uppercase;
+          color: black;
+          font-size: 500%;
+        }
+
+        h2 {
+          text-align: center;
+          text-transform: uppercase;
+          color: black;
+          font-size: 350%;
+        }
+
+        h3 {
+          text-align: center;
+          text-transform: uppercase;
+          color: black;
+          font-size: 200%;
+        }
+        
+        p {
+          text-indent: 50px;
+          text-align: justify;
+          letter-spacing: 3px;
+        }
+        
+        a {
+          text-decoration: none;
+          color: #008CBA;
+        }
+    </style>
+    </head>
+    <body>
+    
+    <div class="topnav">
+      <a class="active" href="index.html">Jonas Brothers</a>
+      <a href="Shop.html">Shop</a>
+      <a href="Discography.html">Discography</a>
+      <a href="Shows.html">Shows</a>
+      <a href="Profile.html">Profile</a>
+    </div>
+
+
+
+    <div class="myDiv">
+      <h1>Shop</h1>
+      <!-- <h1>Jonas Brothers' Merches</h1> -->
+    </div>
+
+    <div class="jbDiv">
+      <h2>Jonas Brothers' Merches</h2>
+    </div>
+
+
+
+    <!-- <div>
+        <h1>Shop</h1> -->
+        <!-- <p>This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
+        The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored -->
+        <!-- <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p> -->
+      <!-- </div> -->
+
+    <section class="container">
+      <!-- <div class="flex-item"> -->
+        <!-- <div class="flex-img"> -->
+          <!-- <img src="https://i.pinimg.com/originals/fc/d7/ba/fcd7ba6d80326a09eba25e04e8ddd4d8.jpg"> -->
+        </section>
+
+        <h3>Apparels</h3>
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_5terre.jpg">
+              <img src="shopimg/shirt1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">HOLLY JOLLY JONAS HOLIDAY SWEATER <br>$40.00</br></div>
+          </div>
+        </div>
+        
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_forest.jpg">
+              <img src="shopimg/shirt2.jpeg"style="width:100%">
+            </a>
+            <div class="desc">CHRISTMAS LIGHT CREST LONGSLEEVE <br>$50.00</br></div>
+          </div>
+        </div>
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_lights.jpg">
+              <img src="shopimg/shirt3.jpeg"style="width:100%">
+            </a>
+            <div class="desc">TOUR ANNIVERSARY HOODIE <br>$50.00</br></div>
+          </div>
+        </div>
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_mountains.jpg">
+              <img src="shopimg/shirt4.jpeg"style="width:100%">
+            </a>
+            <div class="desc">XV BLACK CREWNECK <br>$42.00</br></div>
+          </div>
+        </div>
+        
+
+
+        <h3>Accessories</h3>
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_5terre.jpg">
+              <img src="shopimg/hat1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">STRIPED RED BEANIE <br>$25.00</br></div>
+          </div>
+        </div>
+        
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_forest.jpg">
+              <img src="shopimg/glass1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">CREST WINE GLASSES <br>$40.00</br></div>
+          </div>
+        </div>
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_lights.jpg">
+              <img src="shopimg/poster1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">HILLS TOUR POSTER <br>$5.00</br></div>
+          </div>
+        </div>
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_mountains.jpg">
+              <img src="shopimg/button1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">THROWBACK BUTTON PACK <br>$15.00</br></div>
+          </div>
+        </div>
+
+        <h3>Media</h3>
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_mountains.jpg">
+              <img src="shopimg/media1.jpeg"style="width:100%">
+            </a>
+            <div class="desc">X CASSETTE <br>$5.00</br></div>
+          </div>
+        </div>
+
+
+
+
+        <div class="clearfix"></div>
+        
+        <div style="padding:6px;">
+    
+    </body>
+    </html>
+    
+    
+
+
+  </body>
 </html>

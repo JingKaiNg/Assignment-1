@@ -57,10 +57,13 @@ Happiness Begins: https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b5
 A little bit album:  https://i.scdn.co/image/ab67616d0000b2736052733814bd844a5955f1b1 
 Jonas brothers name: https://1000logos.net/wp-content/uploads/2020/10/Jonas-Brothers-Logo.jpg 
 Jonas brothers logo: https://i.pinimg.com/originals/fc/d7/ba/fcd7ba6d80326a09eba25e04e8ddd4d8.jpg 
-Pic 1 of main page: https://lastfm.freetls.fastly.net/i/u/770x0/09ca8b51b12408dff743afe78fb9485e.jpg 
-Pic2 of main page: https://akns-images.eonline.com/eol_images/Entire_Site/2021423/rs_1200x1200-210523201310-1200-2jonas-bros-billboard-music-awards-2021.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top 
-Pic3 of main page: https://heavy.com/wp-content/uploads/2020/01/jonas-brothers-3-e1580091384806.jpg?quality=65&strip=all&w=780 
-Pic4 of main page: https://media1.popsugar-assets.com/files/thumbor/I2LqIP979rYfLkvQ4i_8zEjX4CI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/08/26/178/n/1922283/796dd5f7814e1ec8_GettyImages-1170410156/i/Jonas-Brothers-2019-MTV-VMAs-Performance-Video.jpg 
+Pic 1 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fentertainment%2Fmusic%2F2019%2F10%2F17%2Fjonas-brothers-better-now-than-they-were-10-years-ago%2F3830255002%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBn
+Pic2 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fhollywoodlife.com%2F2020%2F05%2F16%2Fjonas-brothers-performance-graduate-together-special-x-video%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBi 
+Pic3 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpopcrush.com%2F2020-grammys-jonas-brothers-performance%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBd
+Pic4 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fkcr.sdsu.edu%2Fthey-did-what-jonas-brothers%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBw
+Pic5 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Frollingstoneindia.com%2Fjonas-brothers-announce-second-las-vegas-residency%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABB1
+Pic6 of gallery:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-9610165%2FThe-Jonas-Brothers-Marshmello-rehearse-new-music-ahead-Billboard-Music-Awards-performance.html&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABB6
+Pic7 of gallery:https://www.google.com/url?sa=i&url=https%3A%2F%2Fcelebsecrets.com%2Fdid-nick-jonas-break-up-the-jonas-brothers-again%2F&psig=AOvVaw0fDaoNqTtVMwk5-7Ctc2ck&ust=1669558408613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKgvGDzPsCFQAAAAAdAAAAABAE
 Kevin: https://media1.popsugar-assets.com/files/thumbor/ijvRu7KqYizntOtPlOLib9U9W4k/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/08/07/025/n/1922398/e56a78275b6a2d08e8f136.73630667_/i/Kevin-Jonas.jpg 
 Nick: https://m.media-amazon.com/images/M/MV5BMjI2NTI0NjczM15BMl5BanBnXkFtZTgwMDc4NDI1NDM@._V1_.jpg 
 Joe: https://m.media-amazon.com/images/M/MV5BMTgzMTA0MDUzNF5BMl5BanBnXkFtZTcwOTM2ODcwNw@@._V1_.jpg 

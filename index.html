@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="index.js" defer ></script> 
     <title>Assignment</title>
 </head>
 <body>
@@ -16,7 +17,7 @@
     
     .topnav {
       overflow: hidden;
-      background-color: #04AA6D;
+      background-color: #aa5404;
       
     }
     
@@ -42,25 +43,136 @@
       color: white;
     }
     </style>
+    <style>
+      
+      /* div {
+        border: 1px solid gray;
+        padding: 8px;
+      } */
+       
+      
+      .myDiv {
+        border: 5px outset red;
+        background-color: burlywood;    
+        text-align: center;
+      }
+
+      h1 {
+         text-align: center;
+        text-transform: uppercase;
+        color: black;
+        font-size: 500%; 
+        
+      }
+
+      
+      p {
+        text-indent: 50px;
+        text-align: justify;
+        letter-spacing: 3px;
+      }
+      
+      a {
+        text-decoration: none;
+        color: #008CBA;
+      }
+  </style>
+
+    
     </head>
     <body>
     
     <div class="topnav">
-      <a class="active" href="#Jonas Brothers">Jonas Brothers</a>
-      <a href="#Shop">Shop</a>
-      <a href="#Songs">Songs</a>
-      <a href="#Shows">Shows</a>
-      <a href="#Profile">Profile</a>
+      <a class="active" href="index.html">Jonas Brothers</a>
+      <a href="Shop.html">Shop</a>
+      <a href="Discography.html">Discography</a>
+      <a href="Shows.html">Shows</a>
+      <a href="Profile.html">Profile</a>
     </div>
+
+
+    <div class="myDiv">
+      <h1><img src="https://seeklogo.com/images/J/jonas-brothers-logo-EFF34D9087-seeklogo.com.png"> JONAS BROTHERS </h1>
+  
+    </div>
+
+    <!-- <my.Div>
+      <h1><img src="https://i.pinimg.com/originals/fc/d7/ba/fcd7ba6d80326a09eba25e04e8ddd4d8.jpg"> JONAS BROTHERS </h1> -->
+      <!-- <p>This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
+      The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored -->
+      <!-- <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p> -->
+    <!-- </div> -->
+
+    <!-- <section class="container">
+      <div class="flex-item">
+        <div class="flex-img">
+        <img src="https://i.pinimg.com/originals/fc/d7/ba/fcd7ba6d80326a09eba25e04e8ddd4d8.jpg" style = "padding: 150px" style = "height:50px"style = "margin-top:50px"> 
+        </section> -->
     
-    <div style="padding-left:16px">
-      <h2></h2>
-      <p></p>
-    </div>
+    
+        <div class="slideshow-container">
+
+          <div class="mySlides fade">
+            <div class="numbertext">1 / 7</div>
+            <img src="galleryImg/img1.jpeg"style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">2 / 7</div>
+            <img src="galleryImg/img2.jpeg"style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">3 / 7</div>
+            <img src="galleryImg/img3.jpeg" style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">4 / 7</div>
+            <img src="galleryImg/img4.jpeg"style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">5 / 7</div>
+            <img src="galleryImg/img5.jpeg"style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">6 / 7</div>
+            <img src="galleryImg/img6.jpeg" style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">7 / 7</div>
+            <img src="galleryImg/img7.jpeg" style="width:100%">
+            <div class="text">Performance</div>
+          </div>
+
+          <a class="prev" onclick="plusSlides(-1)">❮</a>
+          <a class="next" onclick="plusSlides(1)">❯</a>
+          
+          </div>
+          <br>
+          
+          <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span> 
+            <span class="dot" onclick="currentSlide(2)"></span> 
+            <span class="dot" onclick="currentSlide(3)"></span> 
+          </div>
+          
     
     </body>
     </html>
     
+    
 
-</body>
+
+
+  </body>
 </html>
