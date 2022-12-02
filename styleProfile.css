@@ -91,6 +91,16 @@ img{
  */ 
 
  /* Three columns side by side */
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 .column {
   float: left;
   width: 33.3%;
@@ -124,7 +134,7 @@ img{
 }
 
 .title {
-  color: black;
+  color: grey;
 }
 
 .button {
@@ -141,4 +151,4 @@ img{
 
 .button:hover {
   background-color: #555;
-}
+} 
