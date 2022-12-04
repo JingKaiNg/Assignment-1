@@ -1,0 +1,217 @@
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display:none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 2000px;
+  max-height:1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor:pointer;
+  position:absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+
+}
+
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: white;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: white;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+
+/*ALign img and text side by side*/
+
+body{
+    margin:0;
+    font-family:sans-serif
+}
+
+.section{
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    padding: 40px;
+    /* width: 60%;
+    margin: 10rem auto 0 auto; */
+}
+.section img{
+    height:250px;
+}
+.section h1{
+    margin: 0;
+    color: greenyellow;
+}
+.section p{
+    color:#c0bdbd;
+    margin-right: 15px; 
+}
+
+ .imgLeft{
+    height: 250px; 
+    float:left;
+    padding: 40px;
+} 
+
+
+
+
+
+
+/* .section2{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 40px;
+ 
+}
+.section2 img{
+  height:250px;
+}
+.section2 h1{
+  margin: 0;
+  color: greenyellow;
+}
+.section2 p{
+  color:#c0bdbd;
+  margin-right: 15px;
+}
+
+
+
+
+
+
+.section3{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 40px;
+ 
+}
+.section3 img{
+  height:250px;
+}
+.section3 h1{
+  margin: 0;
+  color: greenyellow;
+}
+.section3 p{
+  color:#c0bdbd;
+  margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.section4{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 40px;
+
+}
+.section4 img{
+  height:250px;
+}
+.section4 h1{
+  margin: 0;
+  color: greenyellow;
+}
+.section4 p{
+  color:#c0bdbd;
+  margin-right: 15px;
+}
+
+
+
+
+
+
+
+.section5{
+  background-color: black;
+  display: flex;
+  justify-content:space-between;
+  padding: 40px;
+
+}
+.section5 img{
+  height:250px;
+}
+.section5 h1{
+  margin: 0;
+  color: greenyellow;
+}
+.section5 p{
+  color:#c0bdbd;
+  margin-right: 15px;
+} */
