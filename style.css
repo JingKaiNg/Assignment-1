@@ -305,4 +305,28 @@ hover.icon{background: #ff0000;}
     box-shadow: 10px 10px 10px rgb(0 0 0 / 10%);
 } */
 
+.media{
+  position: absolute;
+  top: 175%;
+  left:50%;
+  transform:translate(-53%, -50%); 
+}
+
+i{
+  list-style: none;
+  margin: 10px 30px; 
+  display: infinite-block; 
+  font-size:20px;
+  padding: 20px 20px;
+  color:black;
+  border: 1px solid black;
+  border-radius: 50%;
+  transition:0.5s;
+}
+
+i:hover{
+  color:red;
+  border:1px solid red;
+  transition: 0.5s;
+}
 
