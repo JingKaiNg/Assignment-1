@@ -19,19 +19,20 @@ I feel that my project is the best way to help this band achieve more recognitio
   https://xd.adobe.com/view/61010aed-5e92-4f61-b798-cc51162de2f2-3452/ 
 
 # Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-Existing Features
-•	Feature 1 - allows users X to achieve Y, by having them fill out Z
-•	...
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-Features Left to Implement
-•	Another feature idea
+Home Pgae shows the title and logo of the Band I am doing a website for - Jonas Brothers.
+
+Shop page allows users to take a look at the merchandise of the Jonas Brothers and decide if they would like to purchase them. Each of the item of the shop links to the official shop for the Jonas Brothers.
+
+The Discography page allows users to take a look at some of the songs and albums of the Jonas Brothers and also listen to them. It also includes a top 5 album for the users to view.
+
+The Shows page allow users to view the upcoming shows of the Jonas Brothers to to RSVP for a show. The RSVP button will link the user to another form page for them to fill in their particulars.
+
+The Profile page gives users more information about the band and each of the band numbers so that they can connect and know more about the band members. 
 
 # Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-•	JQuery (The project uses JQuery to simplify DOM manipulation.)
-•	Visual Studio
-•   Adobe XD
+•	Visual Studio (HTML, CSS, JAVA SCRIPT)
+• Adobe XD
 
 
 # Testing
@@ -49,14 +50,15 @@ If this section grows too long, you may want to split it off into a separate fil
 # Content
 •	The text for section Y was copied from the Wikipedia article Z
 # Media
-•	For Wireframe
-Youtube: https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg 
-Instagram:  https://helios-i.mashable.com/imagery/articles/05ayESsjTP2NcNBTuDsWnfu/hero-image.fill.size_1200x675.v1611609265.png 
-Spotify: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fspotify&psig=AOvVaw1fIyz3GyNjyQYDpL1IOYD5&ust=1669012613881000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjCxdGSvPsCFQAAAAAdAAAAABAE 
-Happiness Begins: https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597 
-A little bit album:  https://i.scdn.co/image/ab67616d0000b2736052733814bd844a5955f1b1 
+Happiness Begins poster: https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597 
+A little bit albulm poster:  https://i.scdn.co/image/ab67616d0000b2736052733814bd844a5955f1b1 
+It's about time poster:https://upload.wikimedia.org/wikipedia/en/0/01/It%27s_About_Time_%28Jonas_Brothers_album_-_cover_art%29.jpg
+Jonas brothers albulm poster:https://upload.wikimedia.org/wikipedia/en/8/8e/Jonas_Brothers_%28Jonas_Brothers_album_-_cover_art%29.jpg
+lines vines and trying times poster:https://upload.wikimedia.org/wikipedia/en/b/b1/Lines%2C_Vines_and_Trying_Times_album_cover.jpg
+
 Jonas brothers name: https://1000logos.net/wp-content/uploads/2020/10/Jonas-Brothers-Logo.jpg 
 Jonas brothers logo: https://i.pinimg.com/originals/fc/d7/ba/fcd7ba6d80326a09eba25e04e8ddd4d8.jpg 
+
 Pic 1 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fentertainment%2Fmusic%2F2019%2F10%2F17%2Fjonas-brothers-better-now-than-they-were-10-years-ago%2F3830255002%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBn
 Pic2 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insider.com%2Fjonas-brothers-music-videos-ranked-2019-6&psig=AOvVaw1m371QdtCwn5Pb_4AuL61-&ust=1669964067762000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMD86Yrr1_sCFQAAAAAdAAAAABAI
 Pic3 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpopcrush.com%2F2020-grammys-jonas-brothers-performance%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABBd
@@ -64,9 +66,18 @@ Pic4 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Fkcr.sdsu.edu%
 Pic5 of gallery: https://www.google.com/url?sa=i&url=https%3A%2F%2Frollingstoneindia.com%2Fjonas-brothers-announce-second-las-vegas-residency%2F&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABB1
 Pic6 of gallery:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-9610165%2FThe-Jonas-Brothers-Marshmello-rehearse-new-music-ahead-Billboard-Music-Awards-performance.html&psig=AOvVaw3H_Oj-nN3Uhj7zqQm6CB__&ust=1669553495557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDUvcrxy_sCFQAAAAAdAAAAABB6
 Pic7 of gallery:https://www.google.com/url?sa=i&url=https%3A%2F%2Fcelebsecrets.com%2Fdid-nick-jonas-break-up-the-jonas-brothers-again%2F&psig=AOvVaw0fDaoNqTtVMwk5-7Ctc2ck&ust=1669558408613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKgvGDzPsCFQAAAAAdAAAAABAE
+
 Kevin: https://media1.popsugar-assets.com/files/thumbor/ijvRu7KqYizntOtPlOLib9U9W4k/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/08/07/025/n/1922398/e56a78275b6a2d08e8f136.73630667_/i/Kevin-Jonas.jpg 
 Nick: https://m.media-amazon.com/images/M/MV5BMjI2NTI0NjczM15BMl5BanBnXkFtZTgwMDc4NDI1NDM@._V1_.jpg 
 Joe: https://m.media-amazon.com/images/M/MV5BMTgzMTA0MDUzNF5BMl5BanBnXkFtZTcwOTM2ODcwNw@@._V1_.jpg 
+
+Shop images:
+All shop images taken from: https://jonasbrothersuk.store/
+
+Show background video:
+https://www.youtube.com/watch?v=LfnzCsEzNSk
+
+
 
 # Acknowledgements
 •	I received inspiration for this project from 4.0 coping group. 
