@@ -1,0 +1,53 @@
+.caption {
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 45%;
+    border: solid white 4px;
+    background-color: rgba(50,50,50,0.5);
+}
+
+.text{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 50px;
+}
+
+
+
+
+
+.caption1 {
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 45%;
+    border: solid white 4px;
+    background-color: rgba(50,50,50,0.5);
+}
+
+
+#jobs{
+    background: #f8f8fa;
+    /* padding: 50px 0; */
+    margin-top: 700px;
+}
+
+.company-details{
+    box-shadow: 0 2px 70px 0 rgba(110,130,208,.18);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.job-update{
+    background:#fff;
+    padding:10px 20px;
+    border-radius: 5px;
+}
+
+
+.btn{
+    background-color: grey;
+    
+}

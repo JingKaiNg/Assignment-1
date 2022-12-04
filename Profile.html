@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="styleP.css" rel="stylesheet" type="text/css" />
+    <link href="styleProfile.css" rel="stylesheet" type="text/css" />
+    <link href="normalize.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,900&family=Roboto&display=swap" rel="stylesheet">
+    <script src="profile.js" defer ></script> 
     <title>Assignment</title>
 </head>
 <body>
@@ -56,6 +61,18 @@
   background-color: burlywood;    
   text-align: center;
   }
+
+  .myDiv2 {
+  border: 5px outset red;
+  background-color: burlywood;    
+  text-align: center;
+  }
+
+  .myDiv3 {
+  border: 5px outset black;
+  background-color: coral;    
+  text-align: center;
+  }
   
   h1 {
     text-align: center;
@@ -82,6 +99,9 @@
     text-indent: 50px;
     text-align: justify;
     letter-spacing: 3px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
   }
   
   a {
@@ -104,48 +124,110 @@
 
 
     <div class="myDiv">
+      <h1>Profile</h1>
+      <!-- <h1>Jonas Brothers' Merches</h1> -->
+    </div>
+
+    <style>
+      .bodyJB {
+        background-color: coral;
+      }
+    </style>
+
+    <div class="myDiv3">
+    <div class="bodyJB">
+
+    <h2>The Jonas brothers</h2>
+
+    <p>The Jonas Brothers are an American pop rock band. Formed in 2005, they gained popularity from their appearances on the Disney Channel television network. They consist of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas.Raised in Wyckoff, New Jersey, the Jonas Brothers moved to Little Falls, New Jersey, in 2005, where they wrote their first record that made its Hollywood Records release. They starred in the 2008 Disney Channel Original Movie Camp Rock and its 2010 sequel, Camp Rock 2: The Final Jam. They also starred in their own Disney Channel series Jonas, which was rebranded as Jonas L.A. for its second season. The band have released five albums: It's About Time (2006), Jonas Brothers (2007), A Little Bit Longer (2008), Lines, Vines and Trying Times (2009), and Happiness Begins (2019).
+
+      In 2008, the group was nominated for the Best New Artist award at the 51st Grammy Awards and won the award for Breakthrough Artist at the American Music Awards. Before the release of Lines, Vines and Trying Times, they had sold over eight million albums worldwide. After a hiatus between 2010 and 2011 to pursue solo projects, the group reunited in 2012 to record a new album, which was cancelled following their break-up on October 29, 2013.
+      
+      They have sold over 17 million albums worldwide as of 2013. Six years following their split, the group reunited with the release of "Sucker" on March 1, 2019. The song became the 34th song in history to debut at number one on the Billboard Hot 100, and became the Jonas Brothers' first number one single on the chart. Their fifth studio album, Happiness Begins, was released on June 7, 2019, topped the US Billboard 200.</p>
+    </div>
+    </div>
+
+    <div class="myDiv2">
       <h1>Band Members</h1>
       <!-- <h1>Jonas Brothers' Merches</h1> -->
     </div>
 
-    
-
     <div class="row">
       <div class="column">
         <div class="card">
-          <img src="profileimg/kevin.jpeg" alt="kevin" style="width:1000; height:auto;">
-          <div class="container">
+          <img src="profileimg/kevin_33.jpeg" alt="kevin" style="width:100%; height:auto;">
             <h2>Kevin Jonas</h2>
-            <p class="title">CEO &amp; Founder</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>example@example.com</p>
-            <p><button class="button">Contact</button></p>
-          </div>
+            <p class="title">American musician/guitarist</p>
+            <!-- <p>Born on November 5, 1987 in New Jersey, kevin Jonas has 3 brothers Nicholas Jerry Jonas, Joseph Adam Jonas, and Franklin Nathaniel Jonas. He got his start doing commercials. Later he and his brothers wrote a song called please be mine and that is when they realized that that could be something. They formed their band in 2005. They came up with the name J3 but changed it right before their first show. They kept writing songs until 2013 when their band broke up. While Nick and Joe kept making music just on their own/with another group, Kevin decided to start a family with his wife Danielle. They got married back in Dec. 2009 and decided it was time to have kids. Their first daughter Alena Rose Jonas was born on Feb. 2,2014 and their second daughter Valentina Angelina Jonas on Oct. 27,2016. They raised them and had fun. Then the Jonas Brothers decided to reunite as a band while shooting their documentary Chasing Happiness. They went on tour in 2019 and Kevin's family came too. During 2020 Kevin has stayed home with his family but done zoom calls and video recorded singing and playing guitar so we can keep up with him and his brothers during the pandemic.</p> -->
+            <!-- <p>example@example.com</p> -->
+            <!-- Trigger/Open The Modal -->
+            <p><button id="myBtn">About</button></p>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+            <!-- Modal content -->
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p>Born on November 5, 1987 in New Jersey, kevin Jonas has 3 brothers Nicholas Jerry Jonas, Joseph Adam Jonas, and Franklin Nathaniel Jonas. He got his start doing commercials. Later he and his brothers wrote a song called please be mine and that is when they realized that that could be something. They formed their band in 2005. They came up with the name J3 but changed it right before their first show. They kept writing songs until 2013 when their band broke up. While Nick and Joe kept making music just on their own/with another group, Kevin decided to start a family with his wife Danielle. They got married back in Dec. 2009 and decided it was time to have kids. Their first daughter Alena Rose Jonas was born on Feb. 2,2014 and their second daughter Valentina Angelina Jonas on Oct. 27,2016. They raised them and had fun. Then the Jonas Brothers decided to reunite as a band while shooting their documentary Chasing Happiness. They went on tour in 2019 and Kevin's family came too. During 2020 Kevin has stayed home with his family but done zoom calls and video recorded singing and playing guitar so we can keep up with him and his brothers during the pandemic.</p>
+            </div>
         </div>
       </div>
+    </div>
+      
     
       <div class="column">
         <div class="card">
-          <img src="profileimg/nickk.jpeg" alt="nickk" style="width:1000; height:auto;">
-          <div class="container">
+          <img src="profileimg/nickk_33.jpeg" alt="nickk" style="width:100%; height:100%;">
             <h2>Nick Jonas</h2>
-            <p class="title">Art Director</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>example@example.com</p>
-            <p><button class="button">Contact</button></p>
+            <p class="title">American singer-songwriter</p>
+            <!-- <p>Born on 16 September 1992 in Dallas, Texas, United States, Nick Jonas is the youngest of the Jonas brothers.He has appeared in films such as Night at the Museum 2 (2009) and Careful What You Wish For (2015). He has also appeared television series Last Man Standing (2011) and Hawaii Five-0 (2010). Jonas starred in Jonas (2009), a Disney Channel original series. In 2014, Jonas began work as Demi Lovato's musical and creative director. After Jonas brother's first disbanment, Nick Jonas also started a solo music career where he has released his own hits such as "Jealous"</p> -->
+            <!-- <p>example@example.com</p> -->
+            <!-- <p><button class="button">Contact</button></p> -->
+            <!-- Trigger/Open The Modal -->
+            <p><button id="myBtn">About</button></p>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+            <!-- Modal content -->
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p>Born on 16 September 1992 in Dallas, Texas, United States, Nick Jonas is the youngest of the Jonas brothers.He has appeared in films such as Night at the Museum 2 (2009) and Careful What You Wish For (2015). He has also appeared television series Last Man Standing (2011) and Hawaii Five-0 (2010). Jonas starred in Jonas (2009), a Disney Channel original series. In 2014, Jonas began work as Demi Lovato's musical and creative director. After Jonas brother's first disbanment, Nick Jonas also started a solo music career where he has released his own hits such as "Jealous".</p>
+            </div>
+        </div>
           </div>
         </div>
-      </div>
+      
     
       <div class="column">
         <div class="card">
-          <img src="profileimg/joee.jpeg" alt="joee" style="width:1000; height:auto;">
+          <img src="profileimg/joee_33.jpeg" alt="joee" style="width:100%; height:auto;">
           <div class="container">
             <h2>Joe Jonas</h2>
-            <p class="title">Designer</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>example@example.com</p>
-            <p><button class="button">Contact</button></p>
+            <p class="title">American singer-songwriter</p>
+            <!-- <p>Born on 15 August 1989 in Casa Grande, Arizona, the United States, Joe Jonas is the second oldest member of the Jonas Brothers. He got his start as the frontman for the Grammy-nominated, multi-platinum selling group, Jonas Brothers, which quickly grew into one of the highest-grossing bands in music history.
+               Beyond his career in music, Joe has appeared in guest-starring roles on TV Land's "Hot in Cleveland" and The CW's "90210", and has earned his comedic bonafides with quick-witted posts to his nearly eight million social media followers.
+               Recently, Joe made a name for himself in the fashion world, co-hosting Fashion Rocks Live and serving as a contributor for New York Magazine's The Cut, GQ and Nylon Guys.
+               Joe Jonas will also soon co-star in NBC's highly anticipated variety series, "I Can Do That," hosted by Marlon Wayans and co-starring Cheryl Burke, Nicole Scherzinger, Ciara, Jeff Dye and Alan Ritchson.</p> -->
+            <!-- <p>example@example.com</p> -->
+            <!-- <p><button class="button">Contact</button></p> -->
+            <!-- Trigger/Open The Modal -->
+            <p><button id="myBtn">About</button></p>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+            <!-- Modal content -->
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p>Born on 15 August 1989 in Casa Grande, Arizona, the United States, Joe Jonas is the second oldest member of the Jonas Brothers. He got his start as the frontman for the Grammy-nominated, multi-platinum selling group, Jonas Brothers, which quickly grew into one of the highest-grossing bands in music history.
+                Beyond his career in music, Joe has appeared in guest-starring roles on TV Land's "Hot in Cleveland" and The CW's "90210", and has earned his comedic bonafides with quick-witted posts to his nearly eight million social media followers.
+                Recently, Joe made a name for himself in the fashion world, co-hosting Fashion Rocks Live and serving as a contributor for New York Magazine's The Cut, GQ and Nylon Guys.
+                Joe Jonas will also soon co-star in NBC's highly anticipated variety series, "I Can Do That," hosted by Marlon Wayans and co-starring Cheryl Burke, Nicole Scherzinger, Ciara, Jeff Dye and Alan Ritchson.</p>
+            </div>
+        </div>
+
           </div>
         </div>
       </div>

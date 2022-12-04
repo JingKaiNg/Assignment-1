@@ -5,10 +5,102 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
+    <link href="styleShow.css" rel="stylesheet" type="text/css" />
+    <link href="normalize.css" rel="stylesheet" />
+    
 </head>
 <body>
+
+    <style>
+        body {
+          margin: 0;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .topnav {
+          overflow: hidden;
+          background-color: #aa5404;
+          
+        }
+        
+        .topnav a {
+          float: left;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+          margin:6%;
+          margin-top:0;
+          margin-bottom:0;
+        }
+        
+        .topnav a:hover {
+          background-color: #ddd;
+          color: black;
+        }
+        
+        .topnav a.active {
+          background-color: #043624;
+          color: white;
+        }
+        </style>
+
+    <div class="topnav">
+    <a class="active" href="index.html">Jonas Brothers</a>
+    <a href="Shop.html">Shop</a>
+    <a href="Discography.html">Discography</a>
+    <a href="Shows.html">Shows</a>
+    <a href="Profile.html">Profile</a>
+    </div>
+
+
+ <style>
+    video{
+    object-fit:cover;
+    width: 100vw;
+    height: 100vh;
+    position:fixed;
+    top: 0;
+    left:0;
+    z-index: -1;
+    filter: blur(8px);    /* Adding of blur effects */
+    -webkit-filter: blur(8px);
+}
+</style>   
+
+<div>
+<video playsinline autoplay muted loop id="bgvid">
+    <source src = "videodisco/Jonas Brothers Awards.mp4" types="video/mp4">
+</video>
+</div>
+
+<div class="caption">
+    <h1 class="text">
+        Jonas Brothers' Live Shows 
+    </h1>
+</div>
+
+<section id="jobs">
+<div class ="container">
+<h5>Sat, JAN 7,2023</h5>
+<div class="company-details">
+<div class="job-update">
+    <h4><b>Banc of California Stadium</b></h4>
+    <p>Los Angeles, CA</p>
+  </div>
+
+  <div class="apply-btn">
+  <button type ="button" class="btn btn-primary">Book Now</button>
+  </div>
+  
+</div>
+</div>
+</section>
+
     
 </body>
+
+
+
 </html>
