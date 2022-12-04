@@ -37,18 +37,21 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 # Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-1.	Contact form:
-i.	Go to the "Contact Us" page
-ii.	Try to submit the empty form and verify that an error message about the required fields appears
-iii.	Try to submit the form with an invalid email address and verify that a relevant error message appears
-iv.	Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+1.	RSVP form:
+i.	Go to the SHOWS page
+ii.	Try to click om the RSVP button
+iii.	See if it brings you to another page for you to complete a form
+
+2.	RSVP form:
+i.	Go to the Discography page
+ii.	Try to click on the spotify gallery view
+iii.	See if you can listen to the music.
+
+
+
 
 # Credits
-# Content
-•	The text for section Y was copied from the Wikipedia article Z
+
 # Media
 Happiness Begins poster: https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597 
 A little bit albulm poster:  https://i.scdn.co/image/ab67616d0000b2736052733814bd844a5955f1b1 
@@ -79,5 +82,4 @@ https://www.youtube.com/watch?v=LfnzCsEzNSk
 
 
 
-# Acknowledgements
-•	I received inspiration for this project from 4.0 coping group. 
+
